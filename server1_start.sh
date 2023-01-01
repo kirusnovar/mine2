@@ -1,2 +1,2 @@
 #!/bin/sh
-cd /home/minecraft && java -Xmx2048M -Xms1024M -jar server.jar nogui
+cd /home/mine2 && java -Xmx2048M -Xms1024M -jar server.jar nogui
