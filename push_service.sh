@@ -10,5 +10,5 @@ while true
 do
   echo starting_push
   ./only_push.sh
-  sleep 1m
+  sleep 10s
 done
