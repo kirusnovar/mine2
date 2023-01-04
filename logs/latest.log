@@ -38,3 +38,6 @@
 [19:40:58] [Server thread/INFO]: Starting remote control listener
 [19:40:58] [Server thread/INFO]: Thread RCON Listener started
 [19:40:58] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[19:42:31] [Server thread/INFO]: LEVI37[/172.17.0.1:48684] logged in with entity id 103 at (329.9517650983159, 26.0, 149.30000001192093)
+[19:42:31] [Server thread/INFO]: LEVI37 joined the game
+[19:42:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2969ms or 59 ticks behind
