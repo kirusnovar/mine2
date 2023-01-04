@@ -62,3 +62,10 @@
 [16:53:45] [Worker-Main-2/INFO]: Preparing spawn area: 22%
 [16:53:45] [Worker-Main-7/INFO]: Preparing spawn area: 41%
 [16:53:46] [Worker-Main-7/INFO]: Preparing spawn area: 57%
+[16:53:46] [Worker-Main-5/INFO]: Preparing spawn area: 75%
+[16:53:47] [Worker-Main-4/INFO]: Preparing spawn area: 85%
+[16:53:47] [Server thread/INFO]: Time elapsed: 24902 ms
+[16:53:47] [Server thread/INFO]: Done (28.069s)! For help, type "help"
+[16:53:47] [Server thread/INFO]: Starting remote control listener
+[16:53:47] [Server thread/INFO]: Thread RCON Listener started
+[16:53:47] [Server thread/INFO]: RCON running on 0.0.0.0:25575
