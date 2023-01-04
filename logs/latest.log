@@ -57,3 +57,8 @@
 [22:57:39] [Server thread/INFO]: Thread RCON Listener started
 [22:57:39] [Server thread/INFO]: RCON running on 0.0.0.0:25575
 [22:57:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@37f29e8c[id=<null>,name=kirus,properties={},legacy=false] (/172.17.0.1:47096) lost connection: Disconnected
+[22:58:04] [Server thread/INFO]: kirus[/172.17.0.1:34912] logged in with entity id 102 at (360.2200810861888, -33.0, 12.711241521296035)
+[22:58:04] [Server thread/INFO]: kirus joined the game
+[22:58:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3883ms or 77 ticks behind
+[22:58:17] [Server thread/INFO]: kirus lost connection: Disconnected
+[22:58:17] [Server thread/INFO]: kirus left the game
