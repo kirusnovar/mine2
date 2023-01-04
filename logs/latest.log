@@ -1,2 +1,2 @@
-[16:35:15] [ServerMain/INFO]: Building unoptimized datafixer
-[16:35:18] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:53:11] [ServerMain/INFO]: Building unoptimized datafixer
+[16:53:14] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
