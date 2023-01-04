@@ -56,3 +56,7 @@
 [14:33:56] [Server thread/INFO]: Starting remote control listener
 [14:33:56] [Server thread/INFO]: Thread RCON Listener started
 [14:33:56] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[14:34:57] [Server thread/INFO]: kirus[/127.0.0.1:50218] logged in with entity id 102 at (376.1009158608748, 63.0, 156.77723468666687)
+[14:34:57] [Server thread/INFO]: kirus joined the game
+[14:34:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2612ms or 52 ticks behind
+[14:35:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 43048ms or 860 ticks behind
