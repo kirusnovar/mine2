@@ -67,3 +67,16 @@
 [20:36:33] [Worker-Main-2/INFO]: Preparing spawn area: 4%
 [20:36:34] [Worker-Main-6/INFO]: Preparing spawn area: 12%
 [20:36:34] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[20:36:35] [Worker-Main-6/INFO]: Preparing spawn area: 31%
+[20:36:35] [Worker-Main-7/INFO]: Preparing spawn area: 64%
+[20:36:36] [Worker-Main-2/INFO]: Preparing spawn area: 81%
+[20:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 89%
+[20:36:37] [Server thread/INFO]: Time elapsed: 28336 ms
+[20:36:37] [Server thread/INFO]: Done (33.195s)! For help, type "help"
+[20:36:37] [Server thread/INFO]: Starting remote control listener
+[20:36:37] [Server thread/INFO]: Thread RCON Listener started
+[20:36:37] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[20:36:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@f0ff46d[id=<null>,name=kirus,properties={},legacy=false] (/172.17.0.1:36586) lost connection: Disconnected
+[20:36:37] [Server thread/INFO]: kirus[/172.17.0.1:52532] logged in with entity id 102 at (360.2200810861888, -33.0, 12.711241521296035)
+[20:36:37] [Server thread/INFO]: kirus joined the game
+[20:36:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7978ms or 159 ticks behind
