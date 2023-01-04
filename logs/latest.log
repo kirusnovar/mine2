@@ -1,43 +1,53 @@
-[13:47:12] [ServerMain/INFO]: Building unoptimized datafixer
-[13:47:14] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:47:16] [ServerMain/INFO]: Loaded 7 recipes
-[13:47:17] [ServerMain/INFO]: Loaded 1179 advancements
-[13:47:18] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[13:47:18] [Server thread/INFO]: Loading properties
-[13:47:18] [Server thread/INFO]: Default game type: SURVIVAL
-[13:47:18] [Server thread/INFO]: Generating keypair
-[13:47:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:47:18] [Server thread/INFO]: Using epoll channel type
-[13:47:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:47:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:47:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:47:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:47:18] [Server thread/INFO]: Preparing level "world"
-[13:47:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:47:29] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[13:47:29] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[13:47:29] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[13:47:29] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[13:47:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:47:29] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[13:47:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:47:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:47:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:47:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:47:29] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[13:47:29] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[13:47:29] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[13:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:47:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:47:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:47:30] [Worker-Main-4/INFO]: Preparing spawn area: 17%
-[13:47:31] [Worker-Main-1/INFO]: Preparing spawn area: 40%
-[13:47:31] [Worker-Main-2/INFO]: Preparing spawn area: 73%
-[13:47:32] [Server thread/INFO]: Time elapsed: 10954 ms
-[13:47:32] [Server thread/INFO]: Done (13.649s)! For help, type "help"
-[13:47:32] [Server thread/INFO]: Starting remote control listener
-[13:47:32] [Server thread/INFO]: Thread RCON Listener started
-[13:47:32] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[14:03:42] [ServerMain/INFO]: Building unoptimized datafixer
+[14:03:44] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:03:46] [ServerMain/INFO]: Loaded 7 recipes
+[14:03:47] [ServerMain/INFO]: Loaded 1179 advancements
+[14:03:48] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[14:03:48] [Server thread/INFO]: Loading properties
+[14:03:48] [Server thread/INFO]: Default game type: SURVIVAL
+[14:03:48] [Server thread/INFO]: Generating keypair
+[14:03:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:03:48] [Server thread/INFO]: Using epoll channel type
+[14:03:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:03:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:03:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:03:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:03:48] [Server thread/INFO]: Preparing level "world"
+[14:03:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:04:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:04:04] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:04:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:04:05] [Worker-Main-5/INFO]: Preparing spawn area: 1%
+[14:04:06] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[14:04:06] [Worker-Main-6/INFO]: Preparing spawn area: 29%
+[14:04:07] [Worker-Main-7/INFO]: Preparing spawn area: 43%
+[14:04:07] [Worker-Main-1/INFO]: Preparing spawn area: 65%
+[14:04:08] [Worker-Main-7/INFO]: Preparing spawn area: 89%
+[14:04:08] [Server thread/INFO]: Time elapsed: 15757 ms
+[14:04:08] [Server thread/INFO]: Done (19.666s)! For help, type "help"
+[14:04:08] [Server thread/INFO]: Starting remote control listener
+[14:04:08] [Server thread/INFO]: Thread RCON Listener started
+[14:04:08] [Server thread/INFO]: RCON running on 0.0.0.0:25575
