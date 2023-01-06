@@ -75,3 +75,7 @@
 [18:20:20] [Server thread/INFO]: kirus[/127.0.0.1:50796] logged in with entity id 858 at (358.8436183858284, -33.0, 16.0456458274303)
 [18:20:20] [Server thread/INFO]: kirus joined the game
 [18:20:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 41546ms or 830 ticks behind
+[18:21:19] [Server thread/INFO]: LEVI37 lost connection: Disconnected
+[18:21:19] [Server thread/INFO]: LEVI37 left the game
+[18:21:22] [Server thread/INFO]: LEVI37[/127.0.0.1:43780] logged in with entity id 1087 at (374.5020565814253, 63.0, 158.4067118267709)
+[18:21:22] [Server thread/INFO]: LEVI37 joined the game
