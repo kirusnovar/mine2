@@ -96,3 +96,5 @@
 [18:25:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6392ms or 127 ticks behind
 [18:25:39] [Server thread/INFO]: kirus[/127.0.0.1:58484] logged in with entity id 2085 at (322.56464421516904, 63.0, 159.3650935759743)
 [18:25:39] [Server thread/INFO]: kirus joined the game
+[18:25:48] [Server thread/INFO]: kirus lost connection: Disconnected
+[18:25:48] [Server thread/INFO]: kirus left the game
