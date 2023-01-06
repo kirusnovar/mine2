@@ -1,64 +1,16 @@
-[22:57:06] [ServerMain/INFO]: Building unoptimized datafixer
-[22:57:09] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:57:13] [ServerMain/INFO]: Loaded 7 recipes
-[22:57:14] [ServerMain/INFO]: Loaded 1179 advancements
-[22:57:16] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[22:57:16] [Server thread/INFO]: Loading properties
-[22:57:16] [Server thread/INFO]: Default game type: SURVIVAL
-[22:57:16] [Server thread/INFO]: Generating keypair
-[22:57:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:57:16] [Server thread/INFO]: Using epoll channel type
-[22:57:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:57:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:57:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:57:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:57:17] [Server thread/INFO]: Preparing level "world"
-[22:57:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:57:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:57:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:57:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:57:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:57:37] [Worker-Main-2/INFO]: Preparing spawn area: 11%
-[22:57:37] [Worker-Main-6/INFO]: Preparing spawn area: 38%
-[22:57:38] [Worker-Main-1/INFO]: Preparing spawn area: 60%
-[22:57:38] [Worker-Main-4/INFO]: Preparing spawn area: 83%
-[22:57:39] [Worker-Main-4/INFO]: Preparing spawn area: 99%
-[22:57:39] [Server thread/INFO]: Time elapsed: 18019 ms
-[22:57:39] [Server thread/INFO]: Done (21.797s)! For help, type "help"
-[22:57:39] [Server thread/INFO]: Starting remote control listener
-[22:57:39] [Server thread/INFO]: Thread RCON Listener started
-[22:57:39] [Server thread/INFO]: RCON running on 0.0.0.0:25575
-[22:57:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@37f29e8c[id=<null>,name=kirus,properties={},legacy=false] (/172.17.0.1:47096) lost connection: Disconnected
-[22:58:04] [Server thread/INFO]: kirus[/172.17.0.1:34912] logged in with entity id 102 at (360.2200810861888, -33.0, 12.711241521296035)
-[22:58:04] [Server thread/INFO]: kirus joined the game
-[22:58:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3883ms or 77 ticks behind
-[22:58:17] [Server thread/INFO]: kirus lost connection: Disconnected
-[22:58:17] [Server thread/INFO]: kirus left the game
+[13:54:24] [ServerMain/INFO]: Building unoptimized datafixer
+[13:54:25] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:54:27] [ServerMain/INFO]: Loaded 7 recipes
+[13:54:27] [ServerMain/INFO]: Loaded 1179 advancements
+[13:54:27] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[13:54:27] [Server thread/INFO]: Loading properties
+[13:54:27] [Server thread/INFO]: Default game type: SURVIVAL
+[13:54:27] [Server thread/INFO]: Generating keypair
+[13:54:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:54:28] [Server thread/INFO]: Using epoll channel type
+[13:54:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:54:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:54:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:54:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:54:28] [Server thread/INFO]: Preparing level "world"
+[13:54:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
