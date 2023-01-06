@@ -99,3 +99,4 @@
 [17:56:43] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
 [17:56:42] [Server thread/INFO]: kirus lost connection: Disconnected
 [17:56:43] [Server thread/INFO]: kirus left the game
+[17:57:08] [Server Watchdog/ERROR]: This crash report has been saved to: /home/mine2/./crash-reports/crash-2023-01-06_17.57.08-server.txt
