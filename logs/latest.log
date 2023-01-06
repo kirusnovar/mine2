@@ -14,3 +14,20 @@
 [13:54:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
 [13:54:28] [Server thread/INFO]: Preparing level "world"
 [13:54:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:54:33] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[13:54:33] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[13:54:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[13:54:33] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[13:54:33] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[13:54:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:54:33] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[13:54:33] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[13:54:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[13:54:33] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[13:54:34] [Worker-Main-3/INFO]: Preparing spawn area: 21%
+[13:54:34] [Worker-Main-3/INFO]: Preparing spawn area: 68%
+[13:54:35] [Server thread/INFO]: Time elapsed: 5848 ms
+[13:54:35] [Server thread/INFO]: Done (6.906s)! For help, type "help"
+[13:54:35] [Server thread/INFO]: Starting remote control listener
+[13:54:35] [Server thread/INFO]: Thread RCON Listener started
+[13:54:35] [Server thread/INFO]: RCON running on 0.0.0.0:25575
