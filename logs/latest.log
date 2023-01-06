@@ -95,3 +95,7 @@
 [17:55:29] [Server thread/INFO]: kirus[/127.0.0.1:35402] logged in with entity id 106 at (360.2200810861888, -33.0, 12.711241521296035)
 [17:55:31] [Server thread/INFO]: kirus joined the game
 [17:55:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7708ms or 154 ticks behind
+[17:56:42] [Server Watchdog/ERROR]: A single server tick took 63.03 seconds (should be max 0.05)
+[17:56:43] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[17:56:42] [Server thread/INFO]: kirus lost connection: Disconnected
+[17:56:43] [Server thread/INFO]: kirus left the game
