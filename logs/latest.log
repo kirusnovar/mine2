@@ -83,3 +83,6 @@
 [18:22:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18218ms or 364 ticks behind
 [18:22:26] [Server thread/INFO]: LEVI37 lost connection: Disconnected
 [18:22:26] [Server thread/INFO]: LEVI37 left the game
+[18:22:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15273ms or 305 ticks behind
+[18:22:38] [Server thread/INFO]: LEVI37[/127.0.0.1:43152] logged in with entity id 1350 at (305.30000001192093, 63.9375, 156.75609999020438)
+[18:22:38] [Server thread/INFO]: LEVI37 joined the game
