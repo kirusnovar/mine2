@@ -90,3 +90,5 @@
 [17:53:19] [Server thread/INFO]: Starting remote control listener
 [17:53:19] [Server thread/INFO]: Thread RCON Listener started
 [17:53:19] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[17:54:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3234ms or 64 ticks behind
+[17:55:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
