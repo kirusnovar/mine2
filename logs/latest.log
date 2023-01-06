@@ -74,3 +74,6 @@
 [18:01:24] [Server thread/INFO]: RCON running on 0.0.0.0:25575
 [18:01:25] [Server thread/WARN]: UUID of added entity already exists: bqf['Pig'/21, l='ServerLevel[world]', x=48.29, y=65.00, z=-83.60]
 [18:01:25] [Server thread/WARN]: UUID of added entity already exists: bpv['Cow'/25, l='ServerLevel[world]', x=96.68, y=68.00, z=-31.68]
+[18:01:52] [Server thread/INFO]: kirus[/127.0.0.1:51256] logged in with entity id 107 at (358.8436183858284, -33.0, 16.0456458274303)
+[18:01:53] [Server thread/INFO]: kirus joined the game
+[18:01:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3973ms or 79 ticks behind
