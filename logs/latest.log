@@ -55,3 +55,17 @@
 [18:19:24] [Worker-Main-6/INFO]: Preparing spawn area: 9%
 [18:19:25] [Worker-Main-5/INFO]: Preparing spawn area: 21%
 [18:19:25] [Worker-Main-1/INFO]: Preparing spawn area: 34%
+[18:19:26] [Worker-Main-3/INFO]: Preparing spawn area: 42%
+[18:19:26] [Worker-Main-1/INFO]: Preparing spawn area: 46%
+[18:19:27] [Worker-Main-6/INFO]: Preparing spawn area: 52%
+[18:19:27] [Worker-Main-2/INFO]: Preparing spawn area: 56%
+[18:19:28] [Worker-Main-7/INFO]: Preparing spawn area: 61%
+[18:19:28] [Worker-Main-6/INFO]: Preparing spawn area: 86%
+[18:19:28] [Server thread/INFO]: Time elapsed: 23325 ms
+[18:19:28] [Server thread/INFO]: Done (26.835s)! For help, type "help"
+[18:19:28] [Server thread/INFO]: Starting remote control listener
+[18:19:28] [Server thread/INFO]: Thread RCON Listener started
+[18:19:28] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[18:19:28] [Server thread/WARN]: UUID of added entity already exists: bqf['Pig'/18, l='ServerLevel[world]', x=48.29, y=65.00, z=-83.60]
+[18:19:28] [Server thread/WARN]: UUID of added entity already exists: bpv['Cow'/22, l='ServerLevel[world]', x=96.68, y=68.00, z=-31.68]
+[18:19:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@7660ef44[id=<null>,name=kirus,properties={},legacy=false] (/127.0.0.1:58864) lost connection: Disconnected
