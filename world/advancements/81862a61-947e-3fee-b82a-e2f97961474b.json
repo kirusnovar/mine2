@@ -47,15 +47,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2023-01-06 18:57:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2023-01-06 18:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2023-01-06 18:57:55 +0000"
     },
     "done": true
   },
