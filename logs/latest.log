@@ -99,3 +99,6 @@
 [15:26:30] [Server thread/WARN]: handleDisconnection() called twice
 [15:26:36] [Server thread/INFO]: kirus[/172.17.0.1:34796] logged in with entity id 127 at (243.85224749741093, 67.5625, 181.95624549594828)
 [15:26:36] [Server thread/INFO]: kirus joined the game
+[15:27:06] [Server thread/INFO]: kirus lost connection: Disconnected
+[15:27:06] [Server thread/INFO]: kirus left the game
+[15:27:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38583ms or 771 ticks behind
