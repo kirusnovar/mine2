@@ -91,3 +91,6 @@
 [15:23:06] [Server thread/INFO]: Thread RCON Listener started
 [15:23:06] [Server thread/INFO]: RCON running on 0.0.0.0:25575
 [15:25:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4756ms or 95 ticks behind
+[15:26:09] [Server thread/INFO]: kirus[/127.0.0.1:56062] logged in with entity id 101 at (243.85224749741093, 67.5625, 181.95624549594828)
+[15:26:11] [Server thread/INFO]: kirus joined the game
+[15:26:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12550ms or 251 ticks behind
