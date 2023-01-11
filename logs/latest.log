@@ -48,3 +48,5 @@
 [16:06:09] [Server thread/INFO]: kirus[/172.17.0.1:44710] logged in with entity id 105 at (240.30000001192093, 65.0, 188.69999998807907)
 [16:06:10] [Server thread/INFO]: kirus joined the game
 [16:06:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4434ms or 88 ticks behind
+[16:07:17] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[16:07:17] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
