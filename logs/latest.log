@@ -147,3 +147,12 @@
 [22:34:30] [Server thread/INFO]: kirus discovered the floor was lava
 [22:34:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
 [22:35:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20365ms or 407 ticks behind
+[22:35:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15686ms or 313 ticks behind
+[22:37:27] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;113,-51,954],type:"minecraft:block"}}]
+[22:37:27] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;111,-51,954],type:"minecraft:block"}}]
+[22:37:27] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;110,-51,954],type:"minecraft:block"}}]
+[22:37:27] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;102,-44,947],type:"minecraft:block"}}]
+[22:37:27] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;111,-51,959],type:"minecraft:block"}}]
+[22:37:27] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;131,-44,953],type:"minecraft:block"}}]
+[22:37:27] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;133,-44,953],type:"minecraft:block"}}]
+[22:37:28] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;255,-52,946],type:"minecraft:block"}}]
