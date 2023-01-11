@@ -14,3 +14,52 @@
 [21:48:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
 [21:48:40] [Server thread/INFO]: Preparing level "world"
 [21:48:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:49:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:49:01] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:49:02] [Worker-Main-4/INFO]: Preparing spawn area: 2%
+[21:49:02] [Worker-Main-2/INFO]: Preparing spawn area: 11%
+[21:49:03] [Worker-Main-7/INFO]: Preparing spawn area: 23%
+[21:49:03] [Worker-Main-1/INFO]: Preparing spawn area: 44%
+[21:49:04] [Worker-Main-7/INFO]: Preparing spawn area: 62%
+[21:49:04] [Worker-Main-7/INFO]: Preparing spawn area: 78%
+[21:49:05] [Worker-Main-3/INFO]: Preparing spawn area: 93%
+[21:49:05] [Server thread/INFO]: Time elapsed: 20636 ms
+[21:49:05] [Server thread/INFO]: Done (25.024s)! For help, type "help"
+[21:49:05] [Server thread/INFO]: Starting remote control listener
+[21:49:05] [Server thread/INFO]: Thread RCON Listener started
+[21:49:05] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[21:49:05] [Server thread/INFO]: kirus[/172.17.0.1:59938] logged in with entity id 118 at (240.06433025471284, 67.0, 181.78104546695573)
+[21:49:05] [Server thread/INFO]: kirus joined the game
