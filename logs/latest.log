@@ -59,3 +59,6 @@
 [21:45:33] [Server thread/INFO]: kirus[/172.17.0.1:38954] logged in with entity id 116 at (240.06433025471284, 67.0, 181.78104546695573)
 [21:45:34] [Server thread/INFO]: kirus joined the game
 [21:45:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4337ms or 86 ticks behind
+[21:46:47] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[21:46:47] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[21:46:56] [Server Watchdog/ERROR]: This crash report has been saved to: /home/mine2/./crash-reports/crash-2023-01-11_21.46.56-server.txt
