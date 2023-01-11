@@ -50,3 +50,4 @@
 [16:06:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4434ms or 88 ticks behind
 [16:07:17] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
 [16:07:17] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[16:07:40] [Server Watchdog/ERROR]: This crash report has been saved to: /home/mine2/./crash-reports/crash-2023-01-11_16.07.40-server.txt
