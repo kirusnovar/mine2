@@ -57,3 +57,19 @@
 [18:17:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
 [18:17:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
 [18:17:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:17:02] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:17:03] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[18:17:03] [Worker-Main-5/INFO]: Preparing spawn area: 15%
+[18:17:04] [Worker-Main-4/INFO]: Preparing spawn area: 29%
+[18:17:04] [Worker-Main-3/INFO]: Preparing spawn area: 43%
+[18:17:05] [Worker-Main-6/INFO]: Preparing spawn area: 57%
+[18:17:05] [Worker-Main-6/INFO]: Preparing spawn area: 71%
+[18:17:06] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[18:17:06] [Worker-Main-4/INFO]: Preparing spawn area: 85%
+[18:17:07] [Worker-Main-1/INFO]: Preparing spawn area: 90%
+[18:17:07] [Server thread/INFO]: Time elapsed: 26387 ms
+[18:17:07] [Server thread/INFO]: Done (28.836s)! For help, type "help"
+[18:17:07] [Server thread/INFO]: Starting remote control listener
+[18:17:07] [Server thread/INFO]: Thread RCON Listener started
+[18:17:07] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[18:17:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
